@@ -1,5 +1,5 @@
 # Bookstore-Database
-Python/SQLite3 Project
+Python/SQLite3 Bookstore Project
 Inventory
 Description
 
@@ -33,7 +33,6 @@ Navigate to the directory where the project was installed
 
 Here's a screenshot of the project in action:
 
-capstone
 Credits
 
 This project was created by Daniel Nelson as part of the HyperionDev Software Engineering Bootcamp. This project is important because it taught me the power of Object Oriented Programming in Python, as well as, using the knowledge of functions and other aspects I have learned through the bootcamp
